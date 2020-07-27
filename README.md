@@ -2,9 +2,9 @@
 Solutions to various competitive programming problems
 
 # Problems 
-- mitm -> https://cses.fi/problemset/task/1628/
-- a_vicious_pikeman_easy -> https://open.kattis.com/problems/pikemaneasy
-- deduplication_files -> https://open.kattis.com/problems/deduplicatingfiles
+- mitm -> CSES
+- a_vicious_pikeman_easy -> open.kattis
+- deduplication_files -> open.kattis
 
 # Run
 
